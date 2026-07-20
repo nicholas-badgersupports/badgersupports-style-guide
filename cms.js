@@ -14,7 +14,7 @@
 */
 (function () {
   var CONFIG = {
-    WORKER_URL: ""   // ← paste your deployed Cloudflare Worker URL here (e.g. https://bs-style-editor.yourname.workers.dev)
+    WORKER_URL: "https://bs-style-editor.nicholas-9d9.workers.dev"   // ← paste your deployed Cloudflare Worker URL here (e.g. https://bs-style-editor.yourname.workers.dev)
   };
 
   var baseline = {};   // key -> original innerHTML (to detect text edits)
