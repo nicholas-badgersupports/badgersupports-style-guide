@@ -1,5 +1,39 @@
 [
   {
+    "at": "2026-07-21T03:46:25.209Z",
+    "text": {
+      "foundations-txt-1": "<span style=\"color:var(--red)\">kindness</span><div><span style=\"color:var(--peerD)\">empowerment</span><div><span style=\"color:var(--craftD)\">connection</span></div></div>",
+      "logo-figcaption-1": "Reversed — for dark or photos",
+      "logo-h4-2": "Hand&nbsp;",
+      "logo-h4-3": "Full logo",
+      "logo-h3-1": "Logo Misuse",
+      "logo-p-6": "Scale it to any size but never distort it. Each example below is <span style=\"font-weight: bold; color: rgb(182, 0, 0);\">incorrect</span>.",
+      "type-txt-2": "<span style=\"font-family: Fredoka;\">headline · 70 pt+</span>",
+      "type-txt-5": "the 12 pt is the minimum size allowed",
+      "type-p-12": "Shown to <span style=\"font-style: italic;\">relative</span> scale",
+      "x-txt-1": "#CF5655 copied",
+      "cobrand-figcaption-1": "Badger Supports × EBNS"
+    },
+    "images": {},
+    "adds": {
+      "start-ul1": [],
+      "start-ul2": [],
+      "color-ul1": [],
+      "type-ul1": [],
+      "spacing-ul1": [],
+      "spacing-ul2": [],
+      "imagery-ul1": [],
+      "voice-ul1": [],
+      "voice-ul2": [],
+      "access-ul1": [],
+      "access-ul2": [],
+      "compliance-ul1": [],
+      "making-ul1": [],
+      "making-ul2": [],
+      "glossary": []
+    }
+  },
+  {
     "at": "2026-07-21T03:45:51.758Z",
     "text": {
       "foundations-txt-1": "<span style=\"color:var(--red)\">kindness</span><div><span style=\"color:var(--peerD)\">empowerment</span><div><span style=\"color:var(--craftD)\">connection</span></div></div>",
@@ -112,11 +146,5 @@
       "making-ul2": [],
       "glossary": []
     }
-  },
-  {
-    "at": "2026-07-20T22:49:27.970Z",
-    "text": {},
-    "images": {},
-    "adds": {}
   }
 ]
