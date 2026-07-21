@@ -5,7 +5,11 @@
     "logo-h4-2": "Hand&nbsp;",
     "logo-h4-3": "Full logo",
     "logo-h3-1": "Logo Misuse",
-    "logo-p-6": "Scale it to any size but never distort it. Each example below is <span style=\"font-weight: bold; color: rgb(182, 0, 0);\">incorrect</span>."
+    "logo-p-6": "Scale it to any size but never distort it. Each example below is <span style=\"font-weight: bold; color: rgb(182, 0, 0);\">incorrect</span>.",
+    "type-txt-2": "<span style=\"font-family: Fredoka;\">headline · 70 pt+</span>",
+    "type-txt-5": "the 12 pt is the minimum size allowed",
+    "type-p-12": "Shown to <span style=\"font-style: italic;\">relative</span> scale",
+    "x-txt-1": "#CF5655 copied"
   },
   "images": {},
   "adds": {
